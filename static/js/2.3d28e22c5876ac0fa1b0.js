@@ -1,2 +1,0 @@
-webpackJsonp([2],{Cz8s:function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var r={render:function(){var e=this.$createElement;return(this._self._c||e)("div")},staticRenderFns:[]};var a=n("X4nt")({name:"headerHtml",data:function(){return{msg:"这是个header"}}},r,!1,function(e){n("Wjl5")},"data-v-11e19b38",null);t.default=a.exports},Wjl5:function(e,t){}});
-//# sourceMappingURL=2.3d28e22c5876ac0fa1b0.js.map

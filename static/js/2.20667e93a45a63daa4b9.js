@@ -1,2 +1,0 @@
-webpackJsonp([2],{"2Qkt":function(t,e){},mzkE:function(t,e,n){"use strict";Object.defineProperty(e,"__esModule",{value:!0});var r={render:function(){var t=this.$createElement;return(this._self._c||t)("div")},staticRenderFns:[]};var a=n("X4nt")({name:"footerHtml",data:function(){return{msg:"这是个footer"}}},r,!1,function(t){n("2Qkt")},"data-v-66c9a018",null);e.default=a.exports}});
-//# sourceMappingURL=2.20667e93a45a63daa4b9.js.map

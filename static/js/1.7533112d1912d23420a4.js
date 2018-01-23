@@ -1,2 +1,0 @@
-webpackJsonp([1],{"34jS":function(e,n,t){"use strict";Object.defineProperty(n,"__esModule",{value:!0});var a={render:function(){var e=this.$createElement;return(this._self._c||e)("div",{})},staticRenderFns:[]};var r=t("X4nt")({name:"navHtml",data:function(){return{msg:"这是个nav"}}},a,!1,function(e){t("QFX4")},"data-v-11e927ce",null);n.default=r.exports},QFX4:function(e,n){}});
-//# sourceMappingURL=1.7533112d1912d23420a4.js.map
