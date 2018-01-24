@@ -1,6 +1,6 @@
-# new-html
 
-# code
+# new-html
+每一段文字解释上面的code
 ```
 var content = {"type":"weixin_friend","title":"标题","info":"描述","img":"图片链接","href":"www"}
 var data = JSON.stringify(content);
