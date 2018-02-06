@@ -17,7 +17,7 @@ href:跳转到详情页；
 ```
 var data = {"type":"hrefTo","link":"/user/collection"}
 ```
-href:跳转到对应链接；
+hrefTo:跳转到对应链接；
  
 
 ```
