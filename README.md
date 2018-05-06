@@ -25,10 +25,46 @@ var data = {"type":"add_post_end"}
 ```
 add_post_end:发布资讯完成；
 
+
+```
+var data = {"type":"add_answer_end"}
+```
+add_answer_end:发布问答完成；
+
+
+
+```
+var data = {"type":"add_classroom_end"}
+```
+add_classroom_end:发布课堂完成；
+
+
+
+```
+var data = {"type":"add_wangdian_end"}
+```
+add_wangdian_end:发布网店完成；
+
+
+
+```
+var data = {"type":"add_bidding_end"}
+```
+add_bidding_end:发布竞标完成；
+
+
+```
+var data = {"type":"add_recruit_end"}
+```
+add_recruit_end:发布招聘完成；
+
+
+
 ```
 var data = {"type":"prove_end"}
 ```
 prove_end:实名认证完成；
+
  
 
 
@@ -56,6 +92,7 @@ prove_end:实名认证完成；
 订单可分全额付款跟部分付款
 
 
+
 ## 系统设置
 
 ### 账号与安全
@@ -65,6 +102,8 @@ prove_end:实名认证完成；
 不给他看动态，不看他动态，仅好友可评论，仅好友可发消息
 
 
+## 需要用户头像的接口
+资讯详情，资讯详情的用户评论，课堂列表，课堂详情，问答详情，问答详情的回答，
 
 
 
