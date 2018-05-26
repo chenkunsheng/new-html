@@ -74,7 +74,7 @@ backTo:返回上一页 ；
 
 
 ```
-var data = {"type":"pay","payType":"weixin"}
+var data = {"type":"pay","payType":"weixin","money":"22.00"}
 ```
 pay:充值；
 payType ：weixin:微信；  alipay:支付宝； 
