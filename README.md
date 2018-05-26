@@ -61,32 +61,34 @@ add_recruit_end:发布招聘完成；
 
 
 ```
-var data = {"type":"prove_end"}
+var data = {"type":"backTo"}
 ```
-prove_end:实名认证完成；
+backTo:返回上一页 ；
 
+
+
+```
+var data = {"type":"pay","payType":"weixin"}
+```
+pay:充值；
+payType ：weixin:微信；  alipay:支付宝； 
  
+ 
+```
+var data = {"type":"pay","payType":"weixin"}
+```
+pay:充值；
+payType ：weixin:微信；  alipay:支付宝；
+
 
 
 
 # 后台对接 
 
 
-### 竞标详情
-服务商报价列表的评论接口
-
 ### 我的钱吧
 我的余额，钱包明细，钱吧充值，钱包提现，
 
-### 我的订单列表 
-
-卖家跟买家 mjorderlist.php  orderlist.php
-
-订单返回数据需要有状态判断的(是否请求成功)
-
-需要订单编号字段
-
-需要订单状态字段(下单未付款，已下单，部分支付，交易完成，订单已取消的判断)
 
 ### 我的订单列表 
 订单可分全额付款跟部分付款
@@ -110,8 +112,16 @@ prove_end:实名认证完成；
 # 前端未完成任务
 
  ### 我的钱包
+ 订单详情状态样式，
+
+ ### 圈子
+ 动态删除，评论删除，
+ del_dt.php 参数dt_id
+del_dt_pl.php 参数 pl_id
  
- ### 网店详情
+ 
+  ### 招聘
+ 
  
 
 
