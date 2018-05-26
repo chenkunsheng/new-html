@@ -61,6 +61,12 @@ add_recruit_end:发布招聘完成；
 
 
 ```
+var data = {"type":"prove_end"}
+```
+prove_end:实名认证完成；
+
+ 
+```
 var data = {"type":"backTo"}
 ```
 backTo:返回上一页 ；
@@ -73,14 +79,6 @@ var data = {"type":"pay","payType":"weixin"}
 pay:充值；
 payType ：weixin:微信；  alipay:支付宝； 
  
- 
-```
-var data = {"type":"pay","payType":"weixin"}
-```
-pay:充值；
-payType ：weixin:微信；  alipay:支付宝；
-
-
 
 
 # 后台对接 
